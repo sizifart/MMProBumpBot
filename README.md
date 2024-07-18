@@ -4,9 +4,9 @@
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
 
-## Features  
-| Feature                                                        | Supported  |
-|------------------------------------------------------------- --|:----------:|
+## Functionality
+| Functional                                                     | Supported |
+|----------------------------------------------------------------|:---------:|
 | Multithreading                                                 |     ✅     |
 | Binding a proxy to a session                                   |     ✅     |
 | Auto get all tasks except telegram tasks                       |     ✅     |
@@ -15,6 +15,7 @@
 | Auto start farming and finish farming                          |     ✅     |
 | Auto get moon bouns                                            |     ✅     |
 | Support tdata / pyrogram .session / telethon .session          |     ✅     |
+
 
 
 ## Settings
